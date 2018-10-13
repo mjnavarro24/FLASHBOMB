@@ -4,7 +4,6 @@
 This app displays a question and then displays the answer to that question when tapped upon. 
 
 ### App Walk-though
-
 <img src="blob:https://imgur.com/e97abb8f-78fc-4b11-b7ff-6520f2c76e8c" width=200><br>
 
 ## Required
