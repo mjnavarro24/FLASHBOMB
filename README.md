@@ -4,7 +4,7 @@
 This app displays a question and then displays the answer to that question when tapped upon. 
 
 ### App Walk-though
-<img src="https://imgur.com/9eH3g4b" width=200><br>
+<img src="https://i.imgur.com/9eH3g4b" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
