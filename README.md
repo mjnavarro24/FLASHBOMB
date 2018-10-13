@@ -4,11 +4,8 @@
 This app displays a question and then displays the answer to that question when tapped upon. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="blob:https://imgur.com/e97abb8f-78fc-4b11-b7ff-6520f2c76e8c" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
